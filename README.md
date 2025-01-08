@@ -9,4 +9,5 @@
 ***
 
 ## Решение:
-
+1. [ER Diagram](https://drive.google.com/file/d/10wmUx3K4PSjFMZNxWOX2hG0Zt_cjdzYT/view?usp=sharing)
+2. [Описание ER Diagram](https://docs.google.com/document/d/1PR_6MBi6k4Oa9w0fL3DdgSAIPwzh8MbWJuqix1at68k/edit?usp=sharing)
